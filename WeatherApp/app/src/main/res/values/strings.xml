@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework1extracredit</string>
+    <string name="location_name_default_text">Location Name</string>
+    <string name="temperature_default_text">Temperature</string>
+    <string name="weather_condition_default_text">Weather Conditions</string>
+    <string name="sunrise_default_text">Sunrise:</string>
+    <string name="sunset_default_text">Sunset</string>
+    <string name="city_name_input_hint">Enter a city.</string>
+    <string name="see_weather_button_text">See Weather</string>
+    <string name="input_error_text">Invalid input. Ensure the name is valid.</string>
+</resources>
