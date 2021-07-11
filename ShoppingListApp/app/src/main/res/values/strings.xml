@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">homework1pt3</string>
+    <string name="app_title">Shopping List</string>
+    <string name="add_entry_button_text">+</string>
+    <string name="main_image_default_text">Image</string>
+    <string name="main_name_default_text">Name</string>
+    <string name="main_description_default_text">Desc.</string>
+    <string name="main_price_default_text">Price</string>
+    <string name="main_purchased_default_text">Purchased</string>
+    <string name="main_edit_button_default_text">Edit</string>
+    <string name="main_hide_details_button_default_text">Hide</string>
+    <string name="main_unhide_details_button_default_text">Unhide</string>
+    <string name="edit_entry_title">Edit Item Information</string>
+    <string name="change_item_name_default_text">Item Name</string>
+    <string name="change_item_category_default_text">Item Category</string>
+    <string name="change_item_price_default_text">Item Price</string>
+    <string name="change_item_description_default_text">Item Description</string>
+    <string name="change_item_purchased_default_text">Purchased</string>
+    <string name="change_item_save_button_default_text">Save</string>
+    <string name="change_item_cancel_button_default_text">Cancel</string>
+    <string name="change_item_input_empty_error_text">Ensure all inputs are nonempty.</string>
+    <string name="change_item_unexpected_error_text">An unexpected error has occurred.</string>
+    <string name="change_item_input_overflow_error_text">Ensure that name, category, and price are equal to or less than 20 characters. Description must be under 10.</string>
+    <string name="add_entry_title">Add Item Information</string>
+
+</resources>
